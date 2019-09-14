@@ -1,13 +1,13 @@
 # bootstrap-simple-register-template
 Bootstrap Simple RegisterTemplate is a fully responsive template for Bootstrap lover's,  which include simple form and buttons - Created by Bootcatch team.
 
-[![bootstrap simple register](http://preview.bootcatch.com/bootstrap-simple-register-template/img/simple-register.png)](http://preview.bootcatch.com/bootstrap-simple-register-template/)
+[![bootstrap simple register](https://raw.githubusercontent.com/ajaymarathe/bootstrap-simple-register-template/master/img/simple-register.png)](https://ajaymarathe.github.io/bootstrap-simple-register-template/index.html)
 
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/bootstrap-simple-register-template/
+* https://ajaymarathe.github.io/bootstrap-simple-register-template/index.html
 * http://bootcatch.com
 
 ## Usage
